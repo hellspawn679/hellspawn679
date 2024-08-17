@@ -11,17 +11,9 @@
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/hellspawn679/hellspawn679/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" style="display: inline-block; margin-right: 20px;" />
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" style="display: inline-block;" />
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <a href="https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png" /></a>
-  <a href="https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png" /></a>
-  <a href="https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png" /></a>
-</p>
-
-
-
-</p>
 
 <!-- Footer -->
 <div align="center">
