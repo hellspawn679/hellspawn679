@@ -9,7 +9,7 @@
 
 </div>
 <div align="center">
-<img src="https://github.com/hellspwan679/hellspwan679/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/hellspawn679/hellspawn679/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 
