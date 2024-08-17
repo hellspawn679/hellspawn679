@@ -8,6 +8,14 @@
   <br />
 
 </div>
+
+<img src="party-furby.gif" align="right" width="60">
+<br>
+
+![](under-construction.gif)
+
+<br>
+
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/hellspawn679/hellspawn679/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" style="display: inline-block; margin-right: 20px;" />
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" style="display: inline-block;" />
